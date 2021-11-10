@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Arya Help
 permalink: /arya/help-tr.html
 ---
 

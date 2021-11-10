@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Baby Sleep Contact
 permalink: /baby-sleep/contact/
 ---
 
