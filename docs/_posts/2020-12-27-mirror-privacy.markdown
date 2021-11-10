@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cool Mirror Privacy Policy"
-date:   2020-12-27 16:26:10 -0800
+date:   2020-12-27 10:10:10 -0800
 categories: policy
 ---
 # Privacy Policy
