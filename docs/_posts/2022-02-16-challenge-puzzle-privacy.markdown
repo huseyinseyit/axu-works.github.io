@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Challenge Puzzle: Mystery Privacy Policy"
-date:   2022-02-18 10:00:10 -0800
+title:  "Challenge Puzzle Mystery Privacy Policy"
+date:   2022-02-16 10:00:10 -0800
 categories: policy
 ---
 # Privacy Policy
