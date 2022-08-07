@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI painter Privacy Policy"
-date:   2020-08-06 10:00:10 -0800
+date:   2020-08-05 10:00:10 -0800
 categories: policy
 ---
 # Privacy Policy
