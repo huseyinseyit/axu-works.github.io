@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Speed Logger Privacy Policy"
+title:  "Speed Logger Privacy Policy"
 date:   2023-01-19 08:00:00 -0800
 categories: policy
 ---
